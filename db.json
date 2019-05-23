@@ -1,0 +1,285 @@
+[{
+		"filterId": 47,
+		"filterCriterias": [{
+				"id": 32,
+				"seqNumber": 707,
+				"values": [{
+						"id": 58,
+						"value": "ZXCVB"
+					},
+					{
+						"id": 59,
+						"value": "QWERT"
+					}
+				],
+				"field": {
+					"fieldId": 64,
+					"fieldName": "BLGType",
+					"moduleName": "BLG",
+					"fieldType": {
+						"fieldTypeID": 3,
+						"fieldTypeName": "TEXT"
+					},
+					"allPossibleValues": [{
+							"id": 90,
+							"value": "Secondary",
+							"isDefault": "N"
+						},
+						{
+							"id": 91,
+							"value": "Primary",
+							"isDefault": "Y"
+						},
+						{
+							"id": 92,
+							"value": "Reserve",
+							"isDefault": "N"
+						}
+					]
+				},
+				"fieldTypeOperator": {
+					"id": 15,
+					"operator": {
+						"operatorID": 3,
+						"operatorName": "Contains",
+						"operatorDesc": "Contains operation",
+						"operatorCode": "CON"
+					},
+					"fieldType": {
+						"fieldTypeID": 3,
+						"fieldTypeName": "TEXT"
+					},
+					"numberOfValuesReq": -1
+				}
+			},
+			{
+				"id": 31,
+				"seqNumber": 707,
+				"values": [{
+						"id": 56,
+						"value": "Lingeshvaran-78"
+					},
+					{
+						"id": 76,
+						"value": "Added Today"
+					},
+					{
+						"id": 80,
+						"value": "Added Today again -1"
+					},
+					{
+						"id": 96,
+						"value": "Added by Ling"
+					},
+					{
+						"id": 57,
+						"value": "QWERT-2"
+					},
+					{
+						"id": 78,
+						"value": "Added Today - 2"
+					},
+					{
+						"id": 79,
+						"value": "Added Today - 2"
+					}
+				],
+				"field": {
+					"fieldId": 64,
+					"fieldName": "BLGType",
+					"moduleName": "BLG",
+					"fieldType": {
+						"fieldTypeID": 3,
+						"fieldTypeName": "TEXT"
+					},
+					"allPossibleValues": [{
+							"id": 90,
+							"value": "Secondary",
+							"isDefault": "N"
+						},
+						{
+							"id": 91,
+							"value": "Primary",
+							"isDefault": "Y"
+						},
+						{
+							"id": 92,
+							"value": "Reserve",
+							"isDefault": "N"
+						}
+					]
+				},
+				"fieldTypeOperator": {
+					"id": 15,
+					"operator": {
+						"operatorID": 3,
+						"operatorName": "Contains",
+						"operatorDesc": "Contains operation",
+						"operatorCode": "CON"
+					},
+					"fieldType": {
+						"fieldTypeID": 3,
+						"fieldTypeName": "TEXT"
+					},
+					"numberOfValuesReq": -1
+				}
+			}
+		],
+		"filterName": "First Generic Rule Name Here",
+		"moduleName": "MN-11",
+		"effectiveFrom": "2019-05-01T19:22:35.000+0000",
+		"effectiveTill": "2019-05-01T19:22:35.000+0000",
+		"addedBy": 1244,
+		"pgmName": "pgmName-11",
+		"addedAt": "2019-05-01T19:22:35.387+0000",
+		"addedServerName": "addedServerName-11",
+		"lastUpdatedBy": 54345,
+		"lastUpdatedPgmName": "lastUpdatedPgmName-11",
+		"lastUpdatedAt": "2019-05-01T19:22:35.387+0000",
+		"lastUpdatedServerName": "lastUpdatedServerName-11",
+		"deleted": "Y",
+		"and": "N"
+	},
+	{
+		"filterId": 48,
+		"filterCriterias": [{
+				"id": 32,
+				"seqNumber": 707,
+				"values": [{
+						"id": 58,
+						"value": "ZXCVB"
+					},
+					{
+						"id": 59,
+						"value": "QWERT"
+					}
+				],
+				"field": {
+					"fieldId": 64,
+					"fieldName": "BLGType",
+					"moduleName": "BLG",
+					"fieldType": {
+						"fieldTypeID": 3,
+						"fieldTypeName": "TEXT"
+					},
+					"allPossibleValues": [{
+							"id": 90,
+							"value": "Secondary",
+							"isDefault": "N"
+						},
+						{
+							"id": 91,
+							"value": "Primary",
+							"isDefault": "Y"
+						},
+						{
+							"id": 92,
+							"value": "Reserve",
+							"isDefault": "N"
+						}
+					]
+				},
+				"fieldTypeOperator": {
+					"id": 15,
+					"operator": {
+						"operatorID": 3,
+						"operatorName": "Contains",
+						"operatorDesc": "Contains operation",
+						"operatorCode": "CON"
+					},
+					"fieldType": {
+						"fieldTypeID": 3,
+						"fieldTypeName": "TEXT"
+					},
+					"numberOfValuesReq": -1
+				}
+			},
+			{
+				"id": 31,
+				"seqNumber": 707,
+				"values": [{
+						"id": 56,
+						"value": "Lingeshvaran-78"
+					},
+					{
+						"id": 76,
+						"value": "Added Today"
+					},
+					{
+						"id": 80,
+						"value": "Added Today again -1"
+					},
+					{
+						"id": 96,
+						"value": "Added by Ling"
+					},
+					{
+						"id": 57,
+						"value": "QWERT-2"
+					},
+					{
+						"id": 78,
+						"value": "Added Today - 2"
+					},
+					{
+						"id": 79,
+						"value": "Added Today - 2"
+					}
+				],
+				"field": {
+					"fieldId": 64,
+					"fieldName": "BLGType",
+					"moduleName": "BLG",
+					"fieldType": {
+						"fieldTypeID": 3,
+						"fieldTypeName": "TEXT"
+					},
+					"allPossibleValues": [{
+							"id": 90,
+							"value": "Secondary",
+							"isDefault": "N"
+						},
+						{
+							"id": 91,
+							"value": "Primary",
+							"isDefault": "Y"
+						},
+						{
+							"id": 92,
+							"value": "Reserve",
+							"isDefault": "N"
+						}
+					]
+				},
+				"fieldTypeOperator": {
+					"id": 15,
+					"operator": {
+						"operatorID": 3,
+						"operatorName": "Contains",
+						"operatorDesc": "Contains operation",
+						"operatorCode": "CON"
+					},
+					"fieldType": {
+						"fieldTypeID": 3,
+						"fieldTypeName": "TEXT"
+					},
+					"numberOfValuesReq": -1
+				}
+			}
+		],
+		"filterName": "Second Generic Rule Name",
+		"moduleName": "moduleName-11",
+		"effectiveFrom": "2019-05-01T19:22:35.000+0000",
+		"effectiveTill": "2019-05-01T19:22:35.000+0000",
+		"addedBy": 1244,
+		"pgmName": "pgmName-11",
+		"addedAt": "2019-05-01T19:22:35.387+0000",
+		"addedServerName": "addedServerName-11",
+		"lastUpdatedBy": 54345,
+		"lastUpdatedPgmName": "lastUpdatedPgmName-11",
+		"lastUpdatedAt": "2019-05-01T19:22:35.387+0000",
+		"lastUpdatedServerName": "lastUpdatedServerName-11",
+		"deleted": "Y",
+		"and": "N"
+	}
+]
